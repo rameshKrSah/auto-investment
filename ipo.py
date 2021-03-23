@@ -86,4 +86,5 @@ def main():
 if __name__ == '__main__':
     main()
     print("main ran")
+    print(TODOIST_APIKEY)
 
